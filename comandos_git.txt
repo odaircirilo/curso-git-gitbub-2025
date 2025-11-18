@@ -1,0 +1,4 @@
+git init . -> cria um repo git na pastqa atual 
+git status -> mostra o status do trabalho (de cada arq)
+git add nome_arquivo -> adiciona arquivo para ser comittado
+git commit -m "msg" -> faz commit do que estava para ser 

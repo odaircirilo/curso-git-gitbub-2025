@@ -1,6 +1,8 @@
-cd  ->
-ls  -> 
-pwd -> 
-cat -> 
-rm  -> 
+cd  -> move entre diretórios
+ls  -> lista arquivos -a mostra os arqs ocultos
+pwd -> mostra o diretório onde vc esta 
+cat -> exibe o conteúdo do arquivo 
+rm  -> remove arq ou diretório 
+
+
 
