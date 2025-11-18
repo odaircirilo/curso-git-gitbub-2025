@@ -3,6 +3,7 @@ ls  -> lista arquivos -a mostra os arqs ocultos
 pwd -> mostra o diretório onde vc esta 
 cat -> exibe o conteúdo do arquivo 
 rm  -> remove arq ou diretório 
+rm -rf -> remove de forma recursiva e forçada todos os diretoórios
 
 
 
