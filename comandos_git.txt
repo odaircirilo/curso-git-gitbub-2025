@@ -1,9 +1,9 @@
-git init . -> cria um repo git na pastqa atual 
-git status -> mostra o status do trabalho (de cada arq)
-git add nome_arquivo -> adiciona arquivo para ser comittado
-git commit -m "msg" -> faz commit do que estava para ser 
-git log -> mosta todo o histórico de commit 
-git add. -> vai adicionar tudo que esta na pasta atual 
+git init . 			 -> Cria um repo git na pastqa atual 
+git status 			 -> Mostra o status do trabalho (de cada arq)
+git add nome_arquivo -> Adiciona arquivo para ser comittado
+git commit -m "msg"  -> Faz commit do que estava para ser 
+git log  			 -> Mosta todo o histórico de commit 
+git add. 			 -> Vai adicionar tudo que esta na pasta atual 
 
 fluxo do trabalho
 1.criar dir do projeto
