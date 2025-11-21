@@ -3,3 +3,6 @@ Este arquivo contém informações adicionais no git
 - primeiro comando
 - segundo comando 
 
+inserindo mais dados no arquivo comandos branch
+
+
