@@ -5,4 +5,10 @@ Este arquivo contém informações adicionais no git
 
 inserindo mais dados no arquivo comandos branch
 
-
+#mais comandos !!!!
+1
+2
+3
+5
+6
+7
