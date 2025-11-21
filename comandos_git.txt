@@ -5,4 +5,17 @@ git commit -m "msg" -> faz commit do que estava para ser
 git log -> mosta todo o histórico de commit 
 git add. -> vai adicionar tudo que esta na pasta atual 
 
+fluxo do trabalho
+1.criar dir do projeto
+2.inicia o git dentro do diretório criado (git. init)
+3.edita ou cria arqs
+4.git status
+5.git add <nome arquivo>
+6.git status
+7.git commit -m "mensagem"
+8.git status
+9.volta para o passo 3
+
+
+
 

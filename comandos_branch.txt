@@ -1,1 +1,5 @@
 Este arquivo contém informações adicionais no git 
+
+- primeiro comando
+- segundo comando 
+
