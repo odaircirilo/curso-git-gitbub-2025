@@ -10,9 +10,7 @@ git pull origin main  -> recebe os arqs da origem
 git push origin main  -> envia as coisas para a origem 
 git fetch  -> usado para receber as branchs que estão no repositório remoto 
 
-
-
-
+.....
 
 fluxo do trabalho
 1.criar dir do projeto
