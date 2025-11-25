@@ -1,9 +1,18 @@
 git init . 			 -> Cria um repo git na pastqa atual 
 git status 			 -> Mostra o status do trabalho (de cada arq)
-git add nome_arquivo -> Adiciona arquivo para ser comittado
+git add nome_arquivo -> Adiciona arquivo para ser comittado, se usar add . adiciona tudo da pasta que vc esta 
 git commit -m "msg"  -> Faz commit do que estava para ser 
 git log  			 -> Mosta todo o histórico de commit 
 git add. 			 -> Vai adicionar tudo que esta na pasta atual 
+git checkout -b (nome) -> cria e troca de branch
+
+git pull origin main  -> recebe os arqs da origem
+git push origin main  -> envia as coisas para a origem 
+git fetch  -> usado para receber as branchs que estão no repositório remoto 
+
+
+
+
 
 fluxo do trabalho
 1.criar dir do projeto
